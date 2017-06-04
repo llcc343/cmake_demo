@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/main.dir/main.o  -o main  -L/home/x/workspace/cmake_examples/t3/bin -rdynamic -Wl,-Bstatic -lhello -Wl,-Bdynamic -Wl,-rpath,/home/x/workspace/cmake_examples/t3/bin 
